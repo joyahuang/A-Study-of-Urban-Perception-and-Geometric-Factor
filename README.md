@@ -32,16 +32,16 @@ Streets with commercial facade and beautiful landscape have the higher score of 
 # Cluster Analysis
 
 With scaled space syntax and vitality indicator, I use Gaussian Mixture Model to divide the street into four distinct clusters with following features：
-+ **high choice(500): 
++ **high choice(500):** 
 commercial facade, cycle traffic, colorful.
-+ **high vitality: 
++ **high vitality:** 
 greenery, square, painting
-+ **high integration:
++ **high integration:**
 highway, heavy vehicle traffic.
-+ **low integration,low vitality: 
++ **low integration,low vitality:** 
 foot way, service way, boring facade.
 
 In street renewal scenerio, once the design orientation is set, we can use this research result as design reference to adjust features and characteristics of the street.
 
-# About Me
+> ## About Me
 My name is Huang Zhuoya. I'm currently in my final year in Tongji University studying urban planning. I'm really interested in urban tech. Hopefully, I will learn computer science in the next two years.
