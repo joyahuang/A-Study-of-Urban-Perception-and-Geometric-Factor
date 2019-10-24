@@ -7,5 +7,7 @@ Taking the Anshan New Village as the research object, this paper begins using se
 
 Moreover, after matching the vitality score with space syntax indicator, a correlation analysis to identify the relationship of perception and geometric factors indicates that there are no strong correlation among them. Then, I used Gaussian Mixture Model to classify clusters of streets to extract features, which gives new classification method of streets. The research results can be further used to instruct street renewal based on the design concept.
 
+#### Check the *Zhuoya Huang-percep_geo-123* for final work. Codes will be uploaded shortly.
+
 # About Me
 My name is Huang Zhuoya. I'm currently in my final year in Tongji University studying urban planning. I'm really interested in urban tech. Hopefully, I will learn computer science in the next two years.
